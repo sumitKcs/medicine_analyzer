@@ -71,7 +71,7 @@ medicine_analyzer/
 
 ## Development Tools
 
-- This project was built using the **Amazon Q Developer CLI**, which streamlines the development and deployment of modern web applications.
+- This project was built using the **Amazon Q Developer CLI + VS CODE Extension**, which streamlines the development and deployment of modern web applications.
 
 ## Usage
 
